@@ -1,0 +1,60 @@
+ @import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+#a{
+    width: 400px;
+    height:300px;
+
+
+}
+#abc{
+    padding: 5px;
+    width: 100px;
+    background-color: black;
+    color: blanchedalmond;
+}
+#abc:hover{
+    border-radius: 55%;
+    background-color: rgb(248, 90, 10);
+    transform: skewX();
+
+}
+#c{
+    text-decoration: none;
+}
+ #api{
+    margin-top: 10px;
+    border-radius: 18;
+    background-color: rgb(193, 240, 225);
+ }
+ #api{
+    width: 400px;
+    height:350px;
+    background: #07182E;
+    position: relative;
+    display: flex;
+    place-content: center;
+    overflow: hidden;
+    border-radius: 20px;
+ }
+
+   
+
+#a:hover{
+border-radius: 90%;
+box-shadow: 50px 50px 100px rgb(240, 224, 4);
+
+}
+#font{
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card {
+    background: #26986e; /* Keep the same background */
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 0.5vmin solid #05060f;
+    /* Change the box shadow to purple shades */
+    box-shadow: 0.8rem 0.8rem rgba(128, 0, 128, 0.5), 1.6rem ;
+    color: black;
+}

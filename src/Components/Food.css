@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Joti+One&display=swap');
+.food{
+  background-color: white;
+    height:auto;
+    margin: auto;
+    width: 100%;
+    background-size: cover;
+}
+#color{
+    color: rgb(246, 243, 243);
+}
+.center{
+   margin-top: 400px;
+}
+#title{
+   font-size: 6em;
+    padding-right: 20px;
+    color: rgb(232, 83, 83);
+}
+#pa{
+margin-top: 60px;
+
+}
+#span{
+    color: red;
+}
+#flogo{
+    width: 150px;
+    height:150px;
+    margin-bottom:20px;
+    
+}
+.cl{
+    background-color: rgb(169, 192, 242);
+}
+#sty{
+    font-family: "Joti One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#bst{
+    color: rgb(62, 33, 33);
+}
+#and{
+    color: rgb(237, 158, 101);
+}
+ #footer{
+    position: relative;
+    width: 360px;
+    max-width: 100%;
+} 
+#foods:hover{
+opacity: 0.5;
+}

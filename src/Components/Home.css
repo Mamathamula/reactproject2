@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Noto+Sans+Telugu:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Eater&family=Italianno&family=Lemon&family=Noto+Sans+Telugu:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sniglet:wght@400;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: "Arial", sans-serif;
+    margin-top: 300px; /* Adjust if needed */
+}
+
+.typed {
+    color: blueviolet;
+    font-size: 2.5rem;
+    white-space: nowrap;
+}
+
+#course {
+    margin: 30px;
+    width: 380px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    margin: auto;
+}
+
+#im {
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}
+
+#key {
+    background: url("images/textimg.gif") no-repeat center;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#profile {
+    width: 100%;
+    height: auto;
+}
+
+#back {
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+}
+
+h1.d {
+    font-size: 6rem;
+    font-style: normal;
+    background: url("images/gif.jpg") no-repeat center;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 100px;
+}
+
+#p1 {
+    font-family: "Arial", sans-serif;
+    font-size: 1.2rem;
+    padding: 0 20px;
+    font-weight: 250;
+    color: rgb(22, 46, 49);
+}
+
+#gif {
+    width: 600px;
+    height: 650px;
+}
+
+#p {
+    font-family: "Arial", sans-serif;
+    color: rgb(92, 86, 2);
+    font-size: 20px;
+    padding-left: 2%;
+}
+
+#h3 {
+    font-family: "Arial", sans-serif;
+    font-weight: 400;
+    color: rgb(36, 5, 232);
+}
+
+.btn {
+    background-color: black;
+    color: white;
+}
+
+#api {
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: rgb(193, 240, 225);
+    width: 400px;
+    height: 350px;
+    background: #07182E;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+
+#a {
+    width: 400px;
+    height: 300px;
+}
+
+#abc {
+    padding: 5px;
+    width: 100px;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#abc:hover {
+    border-radius: 55%;
+    background-color: rgb(248, 90, 10);
+    transform: skewX(10deg);
+}
+
+#c {
+    text-decoration: none;
+}
+
+#a:hover {
+    border-radius: 90%;
+   box-shadow: rgb(226, 113, 226);
+}
+
+#font {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card {
+    background-color: green; /* Change this line */
+    padding: 1rem;
+    border-radius: 1rem;
+    border: 0.5vmin solid #05060f;
+    box-shadow: 0.8rem 0.8rem hsl(303, 93%, 47%);
+    color: black;
+    margin: 15px;
+    flex: 1 1 30%;
+    max-width: 300px;
+}
+.row {
+    margin: 0 -15px;
+}
+.custom-heading {
+    margin-top: 0; /* Adjust as needed */
+    padding-top: 0; /* Adjust as needed */
+    text-align: center;
+  }
+  

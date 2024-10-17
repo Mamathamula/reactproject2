@@ -1,0 +1,54 @@
+.bmi {
+  padding: 20px; 
+  min-height: 100vh; 
+}
+
+.container-fluid {
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-direction: column; 
+}
+
+.card1 {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5); 
+  padding: 20px; 
+  border-radius: 10px; 
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.input-label {
+  font-size: 30px;
+  margin: 10px;
+  color: rgb(253, 253, 253);
+  text-align: center;
+}
+
+#h1 {
+  background: url("images/animation.png");
+  background-size: cover;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#mam {
+  background-color: rgb(45, 44, 47); 
+  height: 580px;
+}
+
+#range1 {
+  accent-color: rgb(239, 213, 12);
+}
+
+#range { 
+  accent-color: rgb(250, 53, 14);
+}
+
+.img-fluid {
+  height: 570px;
+  border-radius: 10px;
+}
